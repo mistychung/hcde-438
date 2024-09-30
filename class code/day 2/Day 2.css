@@ -1,0 +1,22 @@
+/* The ruleset below applies to all h1 elements */
+h1 {
+    color: red;
+    font-family: sans-serif;
+}
+
+/* The rulset below applies to the element with the first-para id */
+/* NOTE: You can have only one element with a given id in a HTML document */
+#first-para {
+    color: purple;
+}
+
+/* The rulset below applies to elements with the latintext class */
+.latintext {
+    font-style: italic;
+    color: gray;
+}
+
+/* Insert new rulesets here */
+html {
+    background-color: ivory
+}
